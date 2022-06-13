@@ -22,13 +22,13 @@ module.exports = {
 
   //Event Message
   join: "Joined Voice Channel to the {join}.", //Available {join}
-  dc: "Disconnected.",
+  dc: "Disconnected From The Voice Channel.",
   leftvc: "There no song again on queue.", //Description
   secondleftvc: "Left VC.", //Footer
 
   //Changing Other
   color: "a09fff",
-  channelstatus: "", //Optional (channelid), for send ready message
+  channelstatus: "956572950688067645", //Optional (channelid), for send ready message
   vol: "50", //Default Volume
   maxvol: "150", //Max Volume
 
@@ -39,7 +39,7 @@ module.exports = {
   multiseek: "1000", //Seek Command
   userid: "default",
   logmusic: "1", //0 = off | 1 = on
-  247: "0", //0 = off | 1 = stay 24/7
+  247: "1", //0 = off | 1 = stay 24/7
   last: "null",
   linkdownload: "", //Stream HLS (Soon)
   filters: "none",

@@ -1,8 +1,8 @@
 const Aoijs = require("aoi.js")
  
 const bot = new Aoijs.Bot({
-token: "TOKEN", 
-prefix: "whatever", //<- Change whatever with your prefix//
+  token: "OTc3NjIzNjg5NjY5NTI5NjI2.G7TVpK.GQ9n6UZH8KERNneBFvZZzWr-QdGsFY1JjSFJUQ", 
+prefix: "=", //<- Change whatever with your prefix//
 intents: "all",
 mobilePlatform: true
 })
