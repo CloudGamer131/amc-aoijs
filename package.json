@@ -1,21 +1,17 @@
 {
-  "name": "a",
-  "version": "0.0.0",
-  "description": "none",
-  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "engines": {
-    "node": ">=16.6.0"
-  },
+  "name": "advanced_music-aoi-js",
+  "main": "server.js",
   "author": "",
-  "license": "ISC",
-    "dependencies": {
-    "aoi.js": "^5.1.2",
-    "@akarui/aoi.music": "github:akaruidevelopment/music#main"
-  },
-  "devDependencies": {
-    "axios": "^0.24.0"
+  "dependencies": {
+    "@akarui/aoi.db": "^1.0.0",
+    "@akarui/aoi.music": "^2.3.1",
+    "@akarui/aoi.parser": "^1.0.1",
+    "aoi.js": "^6.4.0",
+    "ffmpeg-static": "^5.1.0",
+    "opusscript": "^0.0.8",
+    "youtube-stream-url": "^2.4.1"
   }
 }
