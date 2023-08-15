@@ -1,12 +1,9 @@
-[![amc-aoijs](https://github-readme-stats.vercel.app/api/pin/?username=greenvgjr&repo=amc-aoijs&theme=dark)](https://github.com/GreenVGJR/amc-aoijs)<br/>
+<div align="center">
+<p>This Version still on Developement.</p>
+<a href="https://github.com/GreenVGJR/amc-aoijs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=greenvgjr&repo=amc-aoijs&theme=dark" loading="lazy"/>
+  <br>
+<p><a href="https://github.com/GreenVGJR/amc-aoijs/tree/handler-v5">V5 Handler</a> | <a href="https://github.com/GreenVGJR/amc-aoijs/tree/non-handler-v5">V5 Non-Handler</a></p>
 
-[![Forks](https://img.shields.io/github/forks/GreenVGJR/amc-aoijs?style=social)](https://github.com/GreenVGJR/amc-aoijs) [![Stars](https://img.shields.io/github/stars/GreenVGJR/amc-aoijs?style=social)](https://github.com/GreenVGJR/amc-aoijs) [![Issues](https://img.shields.io/github/issues/GreenVGJR/amc-aoijs?style=social)](https://github.com/GreenVGJR/amc-aoijs/issues)
-___
-### This is code advanced music for aoi.js, discord bot.
-
-```
-Ver. -
-
-Last Update: -
-```
-##### [List Update](https://pastebin.com/raw/r2cnXCXt) | [Handler - V4/](https://github.com/GreenVGJR/amc-aoijs/tree/handler-v4)[V5](https://github.com/GreenVGJR/amc-aoijs/tree/handler-v5) | [Non-Handler - V4/](https://github.com/GreenVGJR/amc-aoijs/tree/non-handler-v4)[V5](https://github.com/GreenVGJR/amc-aoijs/tree/non-handler-v5)
+</a>
+</div>
