@@ -1,5 +1,5 @@
 <div align="center">
-<p>This Version still on Developement.</p>
+<p>This Version still on Development.</p>
 <a href="https://github.com/GreenVGJR/amc-aoijs">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=greenvgjr&repo=amc-aoijs&theme=dark" loading="lazy"/>
   <br>
